@@ -1,4 +1,4 @@
-# Python-Machine-Learning
+# Python-Machine-Learning-Classificação
 Processo de Construção, Treinamento, Avaliação e Seleção de Modelos Para Classificação
 
 
